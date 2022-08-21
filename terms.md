@@ -2,7 +2,7 @@ Please read these terms of service (“terms”, “terms of service”) careful
 <b>Conditions of Use</b><br/>
 We will provide their services to you, which are subject to the conditions stated below in this document. Every time you visit this website, use its services or make a purchase, you accept the following conditions. This is why we urge you to read them carefully.<br/>
 We do not allow pirate or any form of reverse engineering of this software provided by YouTube Uploader.<br/>
-/b>Privacy Policy</b><br/>
+<b>Privacy Policy</b><br/>
 Before you continue using our website we advise you to read our privacy policy regarding our user data collection. It will help you better understand our practices.<br/>
 <b>Copyright</b><br/>
 Content published on this website (digital downloads, images, texts, graphics, logos) is the property of YouTube Uploader and/or its content creators and protected by international copyright laws. The entire compilation of the content found on this website is the exclusive property of YouTube Uploader, with copyright authorship for this compilation by YouTube Uploader. We are not affiliated with YouTube, the streaming and video uploading platform, in any way.<br/>
